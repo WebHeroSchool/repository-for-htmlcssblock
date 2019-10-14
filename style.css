@@ -1,0 +1,43 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.wrap {
+	width: 1200px;
+	margin: 40px auto;
+}
+
+.rubric {
+	background: #013;
+	color: #fff;
+	display: inline-block;
+	font-size: 12px;
+	padding: 10px;
+	text-transform: uppercase;
+}
+
+.heading {
+	border: 1px solid #444;
+	display: inline-block;
+	margin-bottom: 20px;
+	padding: 20px;
+}
+
+h1 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+img {
+	float: left;
+	margin-right: 30px;
+}
+
+aside {
+	background: #e6eeff;
+	border: 2px double #001a33;
+	color: fff;
+	float: right;
+	line-height: 2;
+	padding: 30px;
+	
+}
